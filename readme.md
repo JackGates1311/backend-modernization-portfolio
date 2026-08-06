@@ -19,7 +19,7 @@
     * **Relational:** **Oracle** (Performance Tuning & Data Integrity), **MariaDB**, **MySQL**.
     * **NoSQL & Cache:** **Redis**, **MongoDB**, **Cassandra**, **Neo4j** (Graph Database).
 * **Enterprise Integrations:** **SAP ERP** (RESTful API), **Enterprise Data Pipelines**, **PowerBI** Analytics, **Last-mile delivery orchestration** (**Glovo**, **Wolt**).
-* **Cloud & DevOps:** **Microsoft Azure**, **Docker**, **Nginx**, **Apache**, **CI/CD** workflows, **Linux** (Server Administration).
+* **Cloud & DevOps:** **Microsoft Azure**, **Docker**, **GitHub Copilot**, **Nginx**, **Apache**, **CI/CD** workflows, **Linux** (Server Administration).
 * **Systems Engineering:** **Distributed Locking**, **Audit Logging Systems**, **Regulatory Compliance**, **High-Availability Design**, **System Hardening**.
 
 ---
