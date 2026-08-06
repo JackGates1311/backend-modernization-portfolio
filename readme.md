@@ -21,6 +21,7 @@
 * **Enterprise Integrations:** **SAP ERP** (RESTful API), **Enterprise Data Pipelines**, **PowerBI** Analytics, **Last-mile delivery orchestration** (**Glovo**, **Wolt**).
 * **Cloud & DevOps:** **Microsoft Azure**, **Docker**, **Nginx**, **Apache**, **CI/CD** workflows, **Linux** (Server Administration).
 * **Systems Engineering:** **Distributed Locking**, **Audit Logging Systems**, **Regulatory Compliance**, **High-Availability Design**, **System Hardening**.
+
 ---
 
 ## PROFESSIONAL EXPERIENCE
@@ -64,10 +65,13 @@
         * **Performance & Integration:** Engineering high-performance communication layers between mobile frontends and modernized backends for real-time **order orchestration** and personalized user experiences.
     * **Industrial Solutions:** Developed and deployed specialized applications for industrial **PDA hardware**, optimizing warehouse logistics, scanning workflows, and real-time inventory tracking.
 
+---
+
 ## **PROFESSIONAL INTERNSHIPS**
 
 ### **DevOps Intern | Levi9, Novi Sad**
 *May 2023 — June 2023*
+
 * **Infrastructure Learning Path:** Gained hands-on experience with **Microsoft Azure** services, focusing on resource provisioning and cloud environment management.
 * **Infrastructure as Code (IaC):** Assisted in developing and maintaining cloud resources using **Terraform**, learning how to apply IaC principles for scalable environments.
 * **Deployment Automation:** Participated in building and testing automated pipelines in **Azure DevOps** to understand the full CI/CD lifecycle.
@@ -76,9 +80,11 @@
 
 ### **Software Developer Intern | Xcentric IT, Novi Sad**
 *August 2022 - September 2022*
+
 * **Legacy-to-Modern Migration:** Spearheaded the transition of an internal project from Firebase to a **Laravel** backend, significantly improving system stability and data security.
 * **Full-Stack Development:** Modernized the frontend by implementing **Tailwind CSS**, enhancing the user experience (UX) for city landmark management tools.
 * **Database Management:** Managed SQL migrations, ensuring data integrity during the architecture overhaul.
+
 ---
 
 ## EDUCATION & LANGUAGES

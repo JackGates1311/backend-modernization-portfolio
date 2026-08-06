@@ -1,0 +1,78 @@
+@page {
+    size: A4;
+    /* Smanji malo gornju i donju marginu sa 12mm na 10mm da dobiješ par milimetara lufta */
+    margin: 10mm 15mm;
+}
+
+body {
+    font-family: 'Calibri', 'Helvetica', 'Arial', sans-serif;
+    font-size: 9.5pt; /* Malo kompaktniji font (sa 10pt na 9.5pt) garantuje da sve legne pod konac */
+    line-height: 1.3;
+    color: #111111;
+    background-color: #ffffff;
+}
+
+h1 {
+    font-size: 18pt;
+    font-weight: 700;
+    margin-bottom: 2px;
+    color: #000000;
+}
+
+h2 {
+    font-size: 11pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-bottom: 1px solid #333333;
+    padding-bottom: 2px;
+    margin-top: 4px; /* Smanjen gornji razmak da se izbegne nepotrebno cepanje */
+    margin-bottom: 6px;
+    color: #111111;
+    
+    /* Sprečava da naslov ostane sam na dnu, ali dozvoljava prirodan prelom */
+    page-break-after: avoid;
+    break-after: avoid;
+}
+
+/* Smanjuje gornju marginu samo za poslednju sekciju da lakše legne */
+h2:last-of-type {
+    margin-top: 10px;
+}
+
+h3 {
+    font-size: 10pt;
+    font-weight: 700;
+    margin-top: 8px;
+    margin-bottom: 2px;
+    color: #222222;
+    page-break-after: avoid;
+}
+
+/* Diskretna, profesionalna plava boja za linkove */
+a {
+    color: #004578;
+    text-decoration: underline;
+}
+
+ul {
+    padding-left: 18px;
+    margin-top: 2px;
+    margin-bottom: 6px;
+}
+
+li {
+    margin-bottom: 2.5px;
+}
+
+strong {
+    color: #000000;
+    font-weight: 600;
+}
+
+blockquote {
+    border-left: 2px solid #555555;
+    padding-left: 8px;
+    color: #333333;
+    margin: 8px 0;
+    font-style: normal;
+}
