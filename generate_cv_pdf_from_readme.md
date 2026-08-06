@@ -1,1 +1,1 @@
-pandoc readme.md -o "Marko_Mitrovic_CV.pdf" --pdf-engine=weasyprint --css=style.css --metadata title="Marko_Mitrovic_CV"
+pandoc readme.md -o "Marko_Mitrovic_CV.pdf" --pdf-engine=weasyprint --css=style.css
