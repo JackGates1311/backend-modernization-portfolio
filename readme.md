@@ -26,7 +26,7 @@
 ## PROFESSIONAL EXPERIENCE
 
 ### **Software Engineer | Univerexport DOO, Novi Sad**
-*December 2023 — Present*
+*December 2023 — August 2026*
 
 **Key Focus:** Leading multi-track architectural migration, enterprise-scale integrations, and system compliance.
 
@@ -38,6 +38,7 @@
         * **Distributed Locking Service:** Engineered a custom cross-platform locking mechanism to resolve complex **race conditions**. This solution synchronized state between **mobile**, **web**, and **backend** environments, ensuring data consistency and preventing concurrent write conflicts across the entire ecosystem.
 
 * **Enterprise Integration & Automation:**
+    * **Financial Systems Interoperability:** Architected and maintained secure       integration layers with major factoring platforms, enabling automated financial processing and reliable data exchange while strictly adhering to high-level security and audit standards.
     * **Enterprise Data Automation Engine:** Architected an automated pipeline for extracting and transforming large-scale datasets into optimized structures for downstream consumption. Implemented **automated schema validation** and **multi-layered integrity checks** to ensure data precision and secure integration with enterprise services.
     * **Delivery Platforms:** Engineered robust integration layers for real-time SKU, pricing, and inventory synchronization between core databases and delivery partner platforms. Implemented high-performance batch processes to ensure data integrity and near real-time consistency across the distribution network.
     * **Internal Tooling & Backend Standardization:**
