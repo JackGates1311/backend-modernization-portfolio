@@ -1,13 +1,13 @@
 @page {
     size: A4;
     /* Smanji malo gornju i donju marginu sa 12mm na 10mm da dobiješ par milimetara lufta */
-    margin: 10mm 15mm;
+    margin: 10mm 20mm;
 }
 
 body {
     font-family: 'Calibri', 'Helvetica', 'Arial', sans-serif;
-    font-size: 9.5pt; /* Malo kompaktniji font (sa 10pt na 9.5pt) garantuje da sve legne pod konac */
-    line-height: 1.3;
+    font-size: 10.5pt; /* Malo kompaktniji font (sa 10pt na 9.5pt) garantuje da sve legne pod konac */
+    line-height: 1.23;
     color: #111111;
     background-color: #ffffff;
 }
@@ -23,7 +23,7 @@ h2 {
     font-size: 11pt;
     font-weight: 700;
     text-transform: uppercase;
-    border-bottom: 1px solid #333333;
+    border-bottom: 1.2px solid #222222;
     padding-bottom: 2px;
     margin-top: 4px; /* Smanjen gornji razmak da se izbegne nepotrebno cepanje */
     margin-bottom: 6px;
@@ -34,15 +34,16 @@ h2 {
     break-after: avoid;
 }
 
-/* Smanjuje gornju marginu samo za poslednju sekciju da lakše legne */
-h2:last-of-type {
-    margin-top: 10px;
+/* Osigurava da sekcija ostane u komadu ili da se prebaci cela pre naslova */
+h2 + * {
+    break-inside: avoid;
+    page-break-inside: avoid;
 }
 
 h3 {
     font-size: 10pt;
     font-weight: 700;
-    margin-top: 8px;
+    margin-top: 6px;
     margin-bottom: 2px;
     color: #222222;
     page-break-after: avoid;
