@@ -1,0 +1,9 @@
+### Production Projects & Architecture Overview
+
+* **eLakolije (e-Commerce Platform)**
+  * **URL:** https://elakolije.rs/
+  * **Description:** High-volume enterprise e-commerce platform handling retail online orders and catalog management. Involved in backend development, system performance optimization, and architectural migration of legacy modules to a scalable structure.
+
+* **Univerexport B2B Supplier Portal**
+  * **URL:** https://b2b.univerexport.rs/meni/partneri.php
+  * **Description:** Enterprise B2B portal serving as a central integration hub for external suppliers and partners. Focused on robust backend services, secure data synchronization, and database optimization for relational data layers.
